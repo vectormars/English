@@ -1,5 +1,18 @@
 # English
 
+### Lesson 270: Jack Ma's Retirement
+After a report saying Jack Ma would retire **circulated** on internet,  Alibaba group later clarified it by explaining that Mr. Ma would be **stepping down** as chairman in a year. The news **prompted** a decline of 3.7% in Alibaba's share price. But most investors **took the news in their stride**. To focus on the charity and education, he will hand over to Daniel Zhang, who lacks Jack Ma's **star quality** but has been an excellent chief executive for Alibaba since 2015.
+
+* circulate: 流传，传播
+* step down: 退下来
+* prompt:导致，引起
+* take...in one's stride: 坦然接受
+
+### Lesson 269: Why do some people make more money?
+Why do some people make more money than others? Education, profession, and even gender can play a role, but there is another powerful factor you have to pay attention to: Researchers at Temple University **set out to** study whether **willpower** can influence how much money people make. For example, being able to delay gratification takes motivation and self-control, which could help people make better career decisions that lead to a higher income.
+
+* set out to: 打算着手做某事
+
 ### Lesson 268: A mix
 1. Don't touch the wound yet to heal
 2. I arrived at the classroom, only to find it empty.
