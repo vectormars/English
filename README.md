@@ -1,5 +1,13 @@
 # English
 
+### Lesson 271: The Rise and fall of Teahouse
+Chengdu once had more than 600 teahouses. Some were famous for storytellers or opera. Others welcomed bird-lovers, who liked to suspend their pets in cages from teahouse eaves to show off their plumage and singing. Some served as **rough-and-ready** courtrooms for unlicensed lawyers. One place might attract tattooed gangsters, another intellectuals. But teahouses have been unlikely to boom again when Starbucks opens its first shop here. The chain plans to have 6,000 outlets in China by 2022, with one opening every 15 hours.
+
+* eave: 屋檐
+* 鸟类羽毛
+* rough-and-ready: 凑合的，简易可用的
+* intellectual: 知识分子
+
 ### Lesson 270: Jack Ma's Retirement
 After a report saying Jack Ma would retire **circulated** on internet,  Alibaba group later clarified it by explaining that Mr. Ma would be **stepping down** as chairman in a year. The news **prompted** a decline of 3.7% in Alibaba's share price. But most investors **took the news in their stride**. To focus on the charity and education, he will hand over to Daniel Zhang, who lacks Jack Ma's **star quality** but has been an excellent chief executive for Alibaba since 2015.
 
