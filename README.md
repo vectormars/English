@@ -1,5 +1,27 @@
 # English
 
+### Lesson 275: A mix
+1. The school offers newcomers a chance to communicate with senior students.
+2. Unlike cats and dogs, horses have no sense of territory.
+3. Creating a good essay takes a great inspiration and an excellent ability to organize words.
+4. As a mature individual, one should take any difficulty in (his or her) stride.
+5. He soon received the offer from the company, English his huge advantage.
+6. Everything you've ever wanted is on the other side of fear.
+
+### Lesson 273: Delicate Stockholm
+Local call their city "beauty on water." But despite the well-preserved historic core, Stockholm is no museum piece: it's modern, dynamic and **ever-changing**. Though it's spread across 14 islands, Stockholm is surprisingly **compact** and easy to navigate. Bridges connect most of the islands; ferries and the subways link the rest. Stockholm's beauty and fashion sense are legendary. Even the humblest coffee shop invests in attractive furniture, strategically placed greenery, sophisticated lighting, and richly textured wall coverings.
+
+* ever-changing: 不断变化的
+* compact: 紧凑的
+
+
+### Lesson 272: Don't Scan Your Phone Before Bed
+It is often said that smartphones have made our lives easier, but there are plenty of concerns too. Scanning your phone right before bed can disturb your **slumber**. The short-wavelength, bright blue light your device emits boosts your attention during the day, but at night the light can **inhibit** the production of melatonin, which helps you fall asleep. To avoid that, you have to **make a habit of** not using your phone for at least 30 minutes before you close your eyes.
+
+* slumber: 睡眠
+* inhibit: 阻碍
+* make a habit of doing sth: 养成做某事的习惯
+
 ### Lesson 271: The Rise and fall of Teahouse
 Chengdu once had more than 600 teahouses. Some were famous for storytellers or opera. Others welcomed bird-lovers, who liked to suspend their pets in cages from teahouse eaves to show off their plumage and singing. Some served as **rough-and-ready** courtrooms for unlicensed lawyers. One place might attract tattooed gangsters, another intellectuals. But teahouses have been unlikely to boom again when Starbucks opens its first shop here. The chain plans to have 6,000 outlets in China by 2022, with one opening every 15 hours.
 
