@@ -1,5 +1,20 @@
 # English
 
+### 282. A mix
+1. To build a healthy body, you have to make a habit of going to bed early and getting up early.
+2. Even the worst student **strives** to prepare for this exam.
+3. The most important concept of getting successful is setting a target and going for it.
+4. We should set out steps for speaking English, and don't be shy.
+5. Nansha Islands have historically been part of China's territory.
+6. Once you carry your own water, you will learn the value of every drop.
+
+### 280. E-cigarettes
+There are plenty of methods for quitting smoking. People can try inhalators, gums, lozenges, nasal sprays and prescription drugs. It was into this mix that e-cigarettes arrived about a decade ago. Unlike ordinary cigarettes, which rely on burning tobacco to deliver their payload, e-cigarettes use an electric charge to vaporize a dose of nicotine. They have proved extremely popular, particularly in America, Britan and Japan. Some consumer say they are "voting with their lungs".
+
+* inhalator: 吸入器
+* lozenge: 润喉糖
+* payload: 负载
+
 ### 279. Lunar Calendar and Solar Calendar
 Lunar calendar is based on a year consisting of synodic months, namely complete cycles of phases of the Moon. In every solar year, there are about 12.37 synodic months. Therefore, if a lunar calendar is to be **kept in step with** solar year, a periodic addition of days is necessary. The Sumerians were probably the first to develop a lunar calendar. Each Sumerian month began on the first day of visibility of the new Moon.
 
