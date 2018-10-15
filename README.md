@@ -1,5 +1,18 @@
 # English
 
+
+
+### 284. 
+
+
+### 283. October 1st, 1949
+On October 1st, 1949, a grand ceremony was witnessed by 300,000 people in Beijing's Tiananmen Square, and Mao Zedong, chairmen of the Central People's Government, **solemnly proclaimed** the founding of the People's Republic of China (PRC). The People's Republic of China was founded on a land that was **ravaged** by a century of foreign invasion and civil wars. Both urban and rural communities, as well as both agriculture and industry, experienced significant growth between 1949-1959.
+
+* solemnly: 庄严地
+* proclaim: 宣布
+* ravage: 破坏，蹂躏
+
+
 ### 282. A mix
 1. To build a healthy body, you have to make a habit of going to bed early and getting up early.
 2. Even the worst student **strives** to prepare for this exam.
